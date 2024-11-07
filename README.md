@@ -19,3 +19,5 @@ was used to train the dataset.Accuarcy metrics for each model is calculated.
 
 A function is also made based on the trained model,\
 which can take any image with many shapes and label the shapes present in them.
+
+**PLEASE NOTE: Kindly unzip the shapes files before running the notebook.**
